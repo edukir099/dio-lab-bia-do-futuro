@@ -1,5 +1,18 @@
 # Base de Conhecimento
 
+> [!TIP]
+> **Prompt usando para esta etapa:**
+> ```
+> Preciso organizar a base de conhecimento do meu agente financeiro.
+> Tenho estes arquivos de dados: [Liste os arquivos].
+> Me ajude a:
+> (1) Entender o que cada arquivo contém.
+> (2) Decidir como usar cada um.
+> (3) Criar um exemplo de contexto formatado para incluir no prompt.
+>
+> [cole o template 02-base-conhecimento.md]
+> ```
+
 ## Dados Utilizados
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
